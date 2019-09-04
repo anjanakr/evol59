@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="T1">2ddf0082b7273300cf70e2b9de11a95c</application>
+        <filter/>
+        <name>t1s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_evol59.t1_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-04 15:49:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5106c2f753233300cf70ddeeff7b12cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>t1s</sys_name>
+        <sys_package display_value="evol59" source="sn_evol59">bce44e7753233300cf70ddeeff7b1242</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="evol59">bce44e7753233300cf70ddeeff7b1242</sys_scope>
+        <sys_update_name>sys_ui_module_5106c2f753233300cf70ddeeff7b12cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-04 15:49:49</sys_updated_on>
+        <table>sn_evol59_t1</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
